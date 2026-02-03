@@ -9,7 +9,7 @@ A standalone desktop application that recognizes handwritten letters (A-Z, a-z) 
 ## 📖 Table of Contents
 - [Getting Started](#getting-started)
     - [Step 1: Install Python 3.10.0 or higher version](#step-1-install-python-3.10.0)
-    - [Step 2: Install Required Libraries](#step-2-clone-the-repository)
+    - [Step 2: Clone the repository](#step-2-clone-the-repository)
     - [Step 3: Install Required Libraries](#step-3-install-required-libraries)
     - [Step 4: Train the Models](#step-4-train-the-models)
     - [Step 5: Run the App](#step-5-run-the-app)
