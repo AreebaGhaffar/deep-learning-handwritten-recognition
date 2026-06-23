@@ -65,7 +65,7 @@ It is essential to use the specified Python version for library compatibility.
 ### Step 2: Clone the repository
 
     ```bash
-    git clone https://github.com/yourusername/deep-learning-handwritten-recognition.git
+    git clone https://github.com/AreebaGhaffar/deep-learning-handwritten-recognition.git
     cd deep-learning-handwritten-recognition
     ```
 
@@ -101,7 +101,7 @@ This script will load the EMNIST dataset, train the classification model, and sa
 Once model is trained and saved, you can launch the interactive visualization application.
 
 ```bash
-python run app.py
+python app.py
 ```
 
 it will automatically open the application.
